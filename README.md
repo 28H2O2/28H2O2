@@ -6,7 +6,7 @@
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=28H2O2&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats-teal-nine-40.vercel.app/api?username=28H2O2&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=28H2O2&theme=default&hide_border=true" />
 
 </div>
