@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/28H2O2?style=flat-square&logo=github&logoColor=white&labelColor=555&color=0969da&label=Followers)](https://github.com/28H2O2?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/28H2O2?style=flat-square&logo=github&logoColor=white&labelColor=555&color=cf222e&label=Total+Stars)](https://github.com/28H2O2?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=28H2O2&style=flat-square&color=2da44e&label=Profile+Views)](https://github.com/28H2O2)
+[![GitHub Roast](https://ghfind.com/api/card/28h2o2?theme=dark)](https://ghfind.com/u/28h2o2?ref=badge)
 
 <br/>
 
